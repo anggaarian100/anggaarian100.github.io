@@ -3,11 +3,11 @@
 <p align="left">Angga Arian</p> 
 <p align="left">3145143622</p> 
 <p align="left">Ilmu Komputer 2014</p>           
-<p align="center">Asphalt Nitro Review </p>
-</body>
+<p align="center">Asphalt Nitro Review</p>
+
                                           <img src="https://vignette.wikia.nocookie.net/asphalt/images/4/47/AN_v1.5.0_icon_%28A%29.png/revision/latest/scale-to-width-down/180?cb=20160813055125" style="margin-left:25%" width="50%">
 
-  Franchise Gameloft yang satu ini memang belum menunjukkan tanda - tanda akan dibinasakan. Setelah Asphalt Overdrive yang bertema endless running dirilis beberapa bulan lalu, kini Gameloft baru-baru ini telah merilis sebuah teaser dari seri game balap mobil Asphalt yang diberi judul Asphalt Nitro. Melalui keberadaan video teaser berdurasi setengah menit yang bisa dilihat di trailer, Gameloft menggoda kita dengan segelintir detail misterius seputar game Asphalt terbarunya yang konon memiliki hubungan dengan Asphalt 8. Bagaimana gameplay dan impresi kami saat memainkan game ini?
+<p align="justify">Franchise Gameloft yang satu ini memang belum menunjukkan tanda - tanda akan dibinasakan. Setelah Asphalt Overdrive yang bertema endless running dirilis beberapa bulan lalu, kini Gameloft baru-baru ini telah merilis sebuah teaser dari seri game balap mobil Asphalt yang diberi judul Asphalt Nitro. Melalui keberadaan video teaser berdurasi setengah menit yang bisa dilihat di trailer, Gameloft menggoda kita dengan segelintir detail misterius seputar game Asphalt terbarunya yang konon memiliki hubungan dengan Asphalt 8. Bagaimana gameplay dan impresi kami saat memainkan game ini?</p>
 
   Asphalt Nitro adalah game yang bergenre balap untuk Android. Cuplikan teaser pertama dirilis pada 29 April 2015. Game ini di desain oleh salah satu produser game terkemuka di dunia yaitu Gameloft. Salah satu alasan kenapa game ini masuk dalam daftar review adalah karena lisensi penggunaannya yang bersifat Offers in-app purchases. Artinya game ini dapat dimainkan gratis, namun jika Anda menginginkan fitur penuh yang disediakan Gameloft seperti membeli dan meng-upgrade mobil tertentu, maka Anda diharuskan mengeluarkan beberapa rupiah untuk mendapatkannya.
 
@@ -39,4 +39,5 @@
 
 Kesimpulan
   Kehadiran Asphalt Nitro sangat patut diapresiasi. Pasalnya, Asphalt 8 yang merupakan judul utama dalam franchise ini membutuhkan spesifikasi smartphone yang lumayan tinggi agar kamu dapat memainkannya dengan nyaman. Asphalt Nitro adalah game balap mobil terbaik yang bisa dimainkan di Android kamu karena dapat dijalankan dengan lancar hampir disemua smartphone yang mengusung prosesor armv7 sehingga seri ini lebih merakyat. Disamping segala downgrade yang ada game ini sangat layak dimainkan jika kamu memiliki smartphone dengan spesifikasi terbatas.
+</body>
 </html>
