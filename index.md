@@ -2,8 +2,7 @@ Angga Arian
 3145143622
 Ilmu Komputer 2014
                                                   Asphalt Nitro Review 
-                                                <img src="
-https://vignette.wikia.nocookie.net/asphalt/images/4/47/AN_v1.5.0_icon_%28A%29.png/revision/latest/scale-to-width-down/180?cb=20160813055125", width="100%">
+                                                <img src="https://vignette.wikia.nocookie.net/asphalt/images/4/47/AN_v1.5.0_icon_%28A%29.png/revision/latest/scale-to-width-down/180?cb=20160813055125" width="100%">
 
   Franchise Gameloft yang satu ini memang belum menunjukkan tanda - tanda akan dibinasakan. Setelah Asphalt Overdrive yang bertema endless running dirilis beberapa bulan lalu, kini Gameloft baru-baru ini telah merilis sebuah teaser dari seri game balap mobil Asphalt yang diberi judul Asphalt Nitro. Melalui keberadaan video teaser berdurasi setengah menit yang bisa dilihat di trailer, Gameloft menggoda kita dengan segelintir detail misterius seputar game Asphalt terbarunya yang konon memiliki hubungan dengan Asphalt 8. Bagaimana gameplay dan impresi kami saat memainkan game ini?
 
