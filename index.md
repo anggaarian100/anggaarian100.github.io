@@ -18,8 +18,7 @@
     Infected (Balapan dengan menginfeksi mobil musuh dengan virus dengan menggunakan nitro yang tak terbatas)
     Gate Drift (Balapan dengan mengumpulkan point sebanyak-banyaknya di gerbang drift berwarna biru)
     Catch (Balapan sebagai polisi yang mengejar buronan dengan dibekali EMP (Electromagnetik Pulse) untuk menangkap musuh)
-    Escape (Balapan dengan menuntaskan semua checkpoint sebelum waktu habis)
-    
+    Escape (Balapan dengan menuntaskan semua checkpoint sebelum waktu habis) 
   Setiap season hanya dapat dimainkan jika Anda memenuhi jumlah bintang yang disyaratkan. Makin tinggi season makin banyak pula bintang yang harus Anda dapatkan. Bintang itu sendiri dapat Anda peroleh dengan memenangkan sebuah balapan.</p>
  
 <p align="justify">Dari sisi grafis, sekilas menganggap game ini sebagai prototype seri Asphalt selanjutnya yang terkesan tergesa - gesa untuk dilaunching. Grafis yang agak ngeblur di beberapa device, jaggies yang sangat kasat mata, dan efek yang terkesan dipaksakan dimasukkan ke dalam game ini. Kami mencoba berpikir positif dan menganggap bahwa Asphalt Nitro merupakan lini baru dari seri asphalt untuk menyasar Smartphone dengan hardware yang kurang mumpuni untuk memainkan Asphalt 8.</p> 
