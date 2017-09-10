@@ -4,21 +4,21 @@
 <p align="left">3145143622</p> 
 <p align="left">Ilmu Komputer 2014</p>           
 <p align="center">Asphalt Nitro Review</p>
-                                          <p align="center"><img src="https://vignette.wikia.nocookie.net/asphalt/images/4/47/AN_v1.5.0_icon_%28A%29.png/revision/latest/scale-to-width-down/180?cb=20160813055125" align="center" width="50%"></p>
+<p align="center"><img src="https://vignette.wikia.nocookie.net/asphalt/images/4/47/AN_v1.5.0_icon_%28A%29.png/revision/latest/scale-to-width-down/180?cb=20160813055125" align="center" width="50%"></p>
 
 <p align="justify">Franchise Gameloft yang satu ini memang belum menunjukkan tanda - tanda akan dibinasakan. Setelah Asphalt Overdrive yang bertema endless running dirilis beberapa bulan lalu, kini Gameloft baru-baru ini telah merilis sebuah teaser dari seri game balap mobil Asphalt yang diberi judul Asphalt Nitro. Melalui keberadaan video teaser berdurasi setengah menit yang bisa dilihat di trailer, Gameloft menggoda kita dengan segelintir detail misterius seputar game Asphalt terbarunya yang konon memiliki hubungan dengan Asphalt 8. Bagaimana gameplay dan impresi kami saat memainkan game ini?</p>
 
 <p align="justify">Asphalt Nitro adalah game yang bergenre balap untuk Android. Cuplikan teaser pertama dirilis pada 29 April 2015. Game ini di desain oleh salah satu produser game terkemuka di dunia yaitu Gameloft. Salah satu alasan kenapa game ini masuk dalam daftar review adalah karena lisensi penggunaannya yang bersifat Offers in-app purchases. Artinya game ini dapat dimainkan gratis, namun jika Anda menginginkan fitur penuh yang disediakan Gameloft seperti membeli dan meng-upgrade mobil tertentu, maka Anda diharuskan mengeluarkan beberapa rupiah untuk mendapatkannya.</p>
 
 <p align="justify">Namun sekalipun gratis detil grafiknya tidak kalah dengan game-game lain. Asphalt Nitro memiliki 3 tipe permainan yaitu Career, Multiplayer dan Events. Tipe Career dibagi dalam 8 Season Mode permainan yang berbeda, yaitu sebagai berikut:
-    Classic (Balapan bersama mobil-mobil musuh yang terdiri dari beberapa lap)
-    Versus (Balapan 1 VS 1)
-    Elimination (Balapan dengan menyingkirkan mobil musuh sehingga hanya 1 mobil yang tersisa)
-    Knockdown (Balapan dengan menabrakkan mobil musuh dengan batas mobil yang ditentukan)
-    Infected (Balapan dengan menginfeksi mobil musuh dengan virus dengan menggunakan nitro yang tak terbatas)
-    Gate Drift (Balapan dengan mengumpulkan point sebanyak-banyaknya di gerbang drift berwarna biru)
-    Catch (Balapan sebagai polisi yang mengejar buronan dengan dibekali EMP (Electromagnetik Pulse) untuk menangkap musuh)
-    Escape (Balapan dengan menuntaskan semua checkpoint sebelum waktu habis) 
+    Classic(Balapan bersama mobil-mobil musuh yang terdiri dari beberapa lap)
+    Versus(Balapan 1 VS 1)
+    Elimination(Balapan dengan menyingkirkan mobil musuh sehingga hanya 1 mobil yang tersisa)
+    Knockdown(Balapan dengan menabrakkan mobil musuh dengan batas mobil yang ditentukan)
+    Infected(Balapan dengan menginfeksi mobil musuh dengan virus dengan menggunakan nitro yang tak terbatas)
+    Gate Drift(Balapan dengan mengumpulkan point sebanyak-banyaknya di gerbang drift berwarna biru)
+    Catch(Balapan sebagai polisi yang mengejar buronan dengan dibekali EMP (Electromagnetik Pulse) untuk menangkap musuh)
+    Escape(Balapan dengan menuntaskan semua checkpoint sebelum waktu habis) 
   Setiap season hanya dapat dimainkan jika Anda memenuhi jumlah bintang yang disyaratkan. Makin tinggi season makin banyak pula bintang yang harus Anda dapatkan. Bintang itu sendiri dapat Anda peroleh dengan memenangkan sebuah balapan.</p>
  
 <p align="justify">Dari sisi grafis, sekilas menganggap game ini sebagai prototype seri Asphalt selanjutnya yang terkesan tergesa - gesa untuk dilaunching. Grafis yang agak ngeblur di beberapa device, jaggies yang sangat kasat mata, dan efek yang terkesan dipaksakan dimasukkan ke dalam game ini. Kami mencoba berpikir positif dan menganggap bahwa Asphalt Nitro merupakan lini baru dari seri asphalt untuk menyasar Smartphone dengan hardware yang kurang mumpuni untuk memainkan Asphalt 8.</p> 
