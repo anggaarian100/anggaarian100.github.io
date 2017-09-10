@@ -1,8 +1,8 @@
-<p>Angga Arian</p> 
-<p>3145143622</p> 
-<p>Ilmu Komputer 2014</p>           
+<p align="right">Angga Arian</p> 
+<p align="right">3145143622</p> 
+<p align="right">Ilmu Komputer 2014</p>           
                                               Asphalt Nitro Review 
-                                                <img src="https://vignette.wikia.nocookie.net/asphalt/images/4/47/AN_v1.5.0_icon_%28A%29.png/revision/latest/scale-to-width-down/180?cb=20160813055125" style="margin-left:25%" width="50%">
+                                          <img src="https://vignette.wikia.nocookie.net/asphalt/images/4/47/AN_v1.5.0_icon_%28A%29.png/revision/latest/scale-to-width-down/180?cb=20160813055125" style="margin-left:25%" width="50%">
 
   Franchise Gameloft yang satu ini memang belum menunjukkan tanda - tanda akan dibinasakan. Setelah Asphalt Overdrive yang bertema endless running dirilis beberapa bulan lalu, kini Gameloft baru-baru ini telah merilis sebuah teaser dari seri game balap mobil Asphalt yang diberi judul Asphalt Nitro. Melalui keberadaan video teaser berdurasi setengah menit yang bisa dilihat di trailer, Gameloft menggoda kita dengan segelintir detail misterius seputar game Asphalt terbarunya yang konon memiliki hubungan dengan Asphalt 8. Bagaimana gameplay dan impresi kami saat memainkan game ini?
 
@@ -28,7 +28,7 @@
 
   Interface yang sederhana dan mudah dinavigasi, dengan semua pilihan gameplay yang ditampilkan pada menu permainan pada saat bersamaan. Gameplay yang halus bahkan pada handset yang paling dasar. Kami juga menguji ini di smartphone dengan prosesor dual core berusia satu tahun dan RAM 1GB, dan itu dimainkan dengan lancar.
 
-  Di sinilah model pembelian dalam aplikasi masuk ke dalam gambar dengan opsi token. Paket kredit terendah datang untuk Rp 15.000 dan tertinggi untuk Rp 219.000. Anda juga bisa membeli paket mobil yang menawarkan mobil yang dibundel dalam kategori yang berbeda. Paket mobil terendah seharga Rp 129.000 menawarkan Lamborghini Sesto Elemento, Lamborghini Veneno RUF CTR 3 dan ruf rt 12. Ada juga paket Rp 89.000 yang bisa membuka semua musim sekaligus. Gameloft terus datang dengan penawaran khusus ini, di mana mereka mengurangi harga sebuah kombo atau mengemas beberapa mobil tambahan atau perangkat mobil dengannya. 
+  Di sinilah model pembelian dalam aplikasi masuk ke dalam gambar dengan opsi token. Paket kredit terendah datang untuk Rp 15.000 dan tertinggi untuk Rp 219.000. Anda juga bisa membeli paket mobil yang menawarkan mobil yang dibundel dalam kategori yang berbeda. Paket mobil terendah seharga Rp 129.000 menawarkan Lamborghini Sesto Elemento, Lamborghini Veneno RUF CTR 3 dan RUF RT 12. Ada juga paket Rp 89.000 yang bisa membuka semua musim sekaligus. Gameloft terus datang dengan penawaran khusus ini, di mana mereka mengurangi harga sebuah kombo atau mengemas beberapa mobil tambahan atau perangkat mobil dengannya. 
 
   Selanjutnya adalah tipe Multiplayer, agar dapat memainkan tipe ini Anda diharuskan memiliki koneksi data agar terhubung ke sambungan internet. Mode permainan dalam tipe ini hampir sama dengan yang ada dalam tipe career, hanya saja lawan Anda disini adalah player-player online lainnya yang tersebar diseluruh dunia.
  
