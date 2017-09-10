@@ -1,4 +1,4 @@
-Asphalt Nitro
+Asphalt Nitro Review
 
 
 Franchise gameloft yang satu ini memang belum menunjukkan tanda - tanda akan dibinasakan. Setelah Asphalt Overdrive yang bertema endless running dirilis beberapa bulan lalu, kini gameloft kembali merilis judul terbaru asphalt yang diberi nama Asphalt Nitro. Bagaimana gameplay dan impresi kami saat memainkan game ini?
