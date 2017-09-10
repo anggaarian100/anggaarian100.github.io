@@ -1,3 +1,3 @@
 # Asphalt Nitro Review
 * Logo:
-  ![about me](http://pre01.deviantart.net/743b/th/pre/i/2011/268/4/5/sasuke__s_mangekyou_sharingan_by_alpha_element-d47xsa2.jpg)
+  ![about me](https://vignette.wikia.nocookie.net/asphalt/images/4/47/AN_v1.5.0_icon_%28A%29.png/revision/latest/scale-to-width-down/180?cb=20160813055125)
