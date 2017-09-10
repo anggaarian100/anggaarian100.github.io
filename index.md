@@ -2,7 +2,7 @@ Angga Arian
 3145143622
 Ilmu Komputer 2014
                                                   Asphalt Nitro Review 
-                                                (AN_v1.5.0_icon(A).jpg) 
+                                                ![Asphalt Nitro Review](AN_v1.5.0_icon_(A).jpg) 
 
   Franchise Gameloft yang satu ini memang belum menunjukkan tanda - tanda akan dibinasakan. Setelah Asphalt Overdrive yang bertema endless running dirilis beberapa bulan lalu, kini Gameloft baru-baru ini telah merilis sebuah teaser dari seri game balap mobil Asphalt yang diberi judul Asphalt Nitro. Melalui keberadaan video teaser berdurasi setengah menit yang bisa dilihat di trailer, Gameloft menggoda kita dengan segelintir detail misterius seputar game Asphalt terbarunya yang konon memiliki hubungan dengan Asphalt 8. Bagaimana gameplay dan impresi kami saat memainkan game ini?
 
