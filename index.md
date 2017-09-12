@@ -41,6 +41,6 @@ Hasil Analisa dari Game Apps
 <p align="center"><img src="http://www.livemint.com/r/LiveMint/Period1/2015/11/21/Photos/gamerevie4.jpg" align="center" width="50%"></p>
 
 Kesimpulan
-<p align="justify">Kehadiran Asphalt Nitro sangat patut diapresiasi. Pasalnya, Asphalt 8 yang merupakan judul utama dalam franchise ini membutuhkan spesifikasi smartphone yang lumayan tinggi agar dapat memainkannya dengan nyaman. Asphalt Nitro adalah game balap mobil terbaik yang bisa dimainkan di Android karena dapat dijalankan dengan lancar hampir disemua smartphone yang mengusung prosesor armv7 sehingga seri ini lebih merakyat. Disamping segala downgrade yang ada game ini sangat layak dimainkan jika memiliki smartphone dengan spesifikasi terbatas.</p>
+<p align="justify">Kehadiran Asphalt Nitro sangat patut diapresiasi. Pasalnya, Asphalt 8 membutuhkan spesifikasi smartphone yang lumayan tinggi agar dapat memainkannya dengan nyaman. Asphalt Nitro adalah game balap mobil terbaik yang bisa dimainkan di Android karena dapat dijalankan dengan lancar hampir disemua smartphone yang mengusung prosesor armv7 sehingga seri ini lebih merakyat. Disamping segala downgrade yang ada game ini sangat layak dimainkan jika memiliki smartphone dengan spesifikasi terbatas.</p>
 </body>
 </html>
