@@ -7,7 +7,7 @@
 <p align="center">DOWNLOAD FAST, DRIVE FASTER!</p>
 <p align="center"><img src="https://1.bp.blogspot.com/-4trF7D74rSs/WJNNUGcWW6I/AAAAAAAAFqA/7cacR7q3RtYZoL6RNna65yNTBhVJf3ktQCLcB/s1600/unnamed.png" align="center" width="50%"></p>
 
-Hasil Analisa 
+Hasil Analisa dari Game Apps
 <p align="justify">Asphalt Nitro adalah game yang bergenre balap untuk Android. Cuplikan teaser pertama dirilis pada 29 April 2015. Game ini di desain oleh salah satu produser game terkemuka di dunia yaitu Gameloft. Salah satu alasan kenapa game ini masuk dalam daftar review adalah karena lisensi penggunaannya yang bersifat Offers in-app purchases. Artinya game ini dapat dimainkan gratis, namun jika Anda menginginkan fitur penuh yang disediakan Gameloft seperti membeli dan meng-upgrade mobil tertentu, maka Anda diharuskan mengeluarkan beberapa rupiah untuk mendapatkannya.</p>
 
 <p align="justify">Namun sekalipun gratis detil grafiknya tidak kalah dengan game-game lain. Asphalt Nitro memiliki 3 tipe permainan yaitu Career, Multiplayer dan Events. Tipe Career dibagi dalam 8 Season Mode permainan yang berbeda, yaitu sebagai berikut:
