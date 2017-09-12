@@ -4,6 +4,7 @@
 <p align="left">3145143622</p> 
 <p align="left">Ilmu Komputer 2014</p>           
 <p align="center">Asphalt Nitro Review</p>
+<p align="center">DOWNLOAD FAST, DRIVE FASTER!</p>
 <p align="center"><img src="https://1.bp.blogspot.com/-4trF7D74rSs/WJNNUGcWW6I/AAAAAAAAFqA/7cacR7q3RtYZoL6RNna65yNTBhVJf3ktQCLcB/s1600/unnamed.png" align="center" width="50%"></p>
 
 <p align="justify">Franchise Gameloft yang satu ini memang belum menunjukkan tanda - tanda akan dibinasakan. Setelah Asphalt Overdrive yang bertema endless running dirilis beberapa bulan lalu, kini Gameloft baru-baru ini telah merilis sebuah teaser dari seri game balap mobil Asphalt yang diberi judul Asphalt Nitro. Melalui keberadaan video teaser berdurasi setengah menit yang bisa dilihat di trailer, Gameloft menggoda kita dengan segelintir detail misterius seputar game Asphalt terbarunya yang konon memiliki hubungan dengan Asphalt 8. Bagaimana gameplay dan impresi kami saat memainkan game ini?</p>
